@@ -1,0 +1,17 @@
+.card {
+    /* width: 50%; */
+    padding: 1rem;
+    height: max-content;
+    border: 2px solid beige;
+    margin: 1rem;
+    border: 5px solid white;
+    border-radius: 10%;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    color: white;
+}
+
+img {
+    max-width: 50%;
+    border-radius: 10%;
+}
